@@ -23,3 +23,6 @@ cordova run browser
 # 运行相关平台的代码
 cordova run <platform> // cordova run android
 ```
+
+# 代码放在线上时，建议去除插件
+- cordova-hot-code-push-local-dev-addon

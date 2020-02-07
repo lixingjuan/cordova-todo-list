@@ -19,6 +19,14 @@
         <param name="ios-package" value="CDVGestureHandler" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="HotCodePush">
+        <param name="ios-package" value="HCPPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="HotCodePushLocalDevMode">
+        <param name="ios-package" value="HCPLDPlugin" />
+        <param name="onload" value="true" />
+    </feature>
     <name>HelloWorld</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
@@ -49,4 +57,5 @@
     <preference name="PageLength" value="0" />
     <preference name="PaginationBreakingMode" value="page" />
     <preference name="PaginationMode" value="unpaginated" />
+    <preference name="loadUrlTimeoutValue" value="60000" />
 </widget>

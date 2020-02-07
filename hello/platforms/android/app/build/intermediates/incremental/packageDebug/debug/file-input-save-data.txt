@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Feb 07 19:47:32 CST 2020
+#Fri Feb 07 20:30:17 CST 2020
 4.path=www/cordova-js-src/plugin/android/app.js
 13.baseType=DIRECTORY
 8.set=ASSET
@@ -8,7 +8,7 @@
 10.path=classes.dex
 5.baseType=DIRECTORY
 1.base=/Users/lixingjuan/Documents/Git_projects/todoList/cordova-todo-list/hello/platforms/android/app/build/intermediates/assets/debug
-8.path=www/js/app.15d3c5d5.js
+8.path=www/cordova-js-src/android/nativeapiprovider.js
 12.path=www/js/chunk-vendors.772a58bd.js.map
 3.base=/Users/lixingjuan/Documents/Git_projects/todoList/cordova-todo-list/hello/platforms/android/app/build/intermediates/assets/debug
 14.path=www/favicon.ico
@@ -32,11 +32,11 @@
 7.baseType=DIRECTORY
 3.path=www/cordova-js-src/android/promptbasednativeapi.js
 10.set=DEX
-5.path=www/js/app.15d3c5d5.js.map
+5.path=www/js/app.d4fcb465.js
 0.base=/Users/lixingjuan/Documents/Git_projects/todoList/cordova-todo-list/hello/platforms/android/app/build/intermediates/assets/debug
 7.path=www/cordova-js-src/exec.js
 11.path=www/js/chunk-vendors.772a58bd.js
-9.path=www/cordova-js-src/android/nativeapiprovider.js
+9.path=www/js/app.d4fcb465.js.map
 6.set=ASSET
 2.base=/Users/lixingjuan/Documents/Git_projects/todoList/cordova-todo-list/hello/platforms/android/app/build/intermediates/assets/debug
 13.path=www/cordova_plugins.js

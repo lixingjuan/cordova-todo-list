@@ -7,10 +7,14 @@
 import Vue from "vue";
 import Router from "vue-router";
 import todoList from "@/todoList/index.vue";
+import index from "@/index.vue";
 
 Vue.use(Router);
 
 export default new Router({
   mode: "history",
-  routes: [{ path: "/todoList", name: "todoList", component: todoList }]
+  routes: [
+    { path: "/todoList", name: "todoList", component: todoList },
+    { path: "/", name: "index", component: index }
+  ]
 });

@@ -1,4 +1,4 @@
-#Fri Feb 07 19:47:32 CST 2020
+#Fri Feb 07 20:30:16 CST 2020
 base.0=/Users/lixingjuan/Documents/Git_projects/todoList/cordova-todo-list/hello/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
